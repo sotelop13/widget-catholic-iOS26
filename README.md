@@ -1,15 +1,15 @@
 # Saints Quotes Widget 📿
 
-A beautiful iOS widget featuring daily inspirational quotes from Catholic Saints, designed with a stunning **Liquid Glass** visual effect.
+[Still in development] A beautiful iOS widget featuring daily inspirational quotes from Catholic Saints, designed with a stunning **Liquid Glass** visual effect.
 
 ## Features
 
-✨ **30+ Inspirational Quotes** from beloved Catholic Saints
-🎨 **Liquid Glass Design** with frosted glass effects and dynamic gradients
-📅 **Daily Updates** - New quote automatically every day
-📱 **Multiple Widget Sizes** - Small, Medium, Large, and Lock Screen widgets
-🎯 **8 Categories** - Wisdom, Prayer, Faith, Love, Hope, Peace, Courage, Humility
-🌈 **Color-Coded** - Each category has its own beautiful gradient theme
+ **30+ Inspirational Quotes** from beloved Catholic Saints
+ **Liquid Glass Design** with frosted glass effects and dynamic gradients
+ **Daily Updates** - New quote automatically every day
+ **Multiple Widget Sizes** - Small, Medium, Large, and Lock Screen widgets
+ **8 Categories** - Wisdom, Prayer, Faith, Love, Hope, Peace, Courage, Humility
+ **Color-Coded** - Each category has its own beautiful gradient theme
 
 ## Saints Featured
 
